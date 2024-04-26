@@ -7,7 +7,7 @@ const list = express();
 const toons = [
     { id: 1, name: 'Super Friends', prod: 'Hanna-Barbera', year: 1980 },
     { id: 1, name: 'Thundarr the Barbarian', prod: 'Ruby-SPears', year: 1980 },
-    { id: 1, name: 'Scooby-Doo', prod: 'Hanna-Barbera', year: 1969 },
+    { id: 1, name: 'Scooby-Doo and Scrappy-Doo', prod: 'Hanna-Barbera', year: 1980 },
     { id: 1, name: 'Spider-Man and His Amazing Friends', prod: 'Marvel', year: 1981 },
     { id: 1, name: 'He-Man and the Masters of the Universe', prod: 'Filmation', year: 1983 },
     { id: 1, name: 'Dungeons & Dragons', prod: 'Toei', year: 1983 },
