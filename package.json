@@ -1,0 +1,14 @@
+{
+  "name": "tech-avidus-test",
+  "version": "0.0.0",
+  "description": "TechAvidusTEST",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
