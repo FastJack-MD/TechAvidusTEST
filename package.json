@@ -3,12 +3,17 @@
   "version": "0.0.0",
   "description": "TechAvidusTEST",
   "main": "server.js",
-  "author": {
-    "name": ""
-  },
+  "author": "",
   "devDependencies": {
     "eslint": "^8.21.0"
   },
-  "eslintConfig": {
+  "eslintConfig": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
   }
 }
